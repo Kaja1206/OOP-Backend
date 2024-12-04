@@ -31,7 +31,5 @@ public class Config {
         return maxCustomers;
     }
 
-    public void setMaxCustomers(int maxCustomers) {
-        this.maxCustomers = maxCustomers;
-    }
+
 }
